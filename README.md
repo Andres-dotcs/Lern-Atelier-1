@@ -13,4 +13,4 @@ ILA 2 - 28.08.2026
 
 ## Lernziele
 - [x] Modul 431, Aufgabe 1711 Excel Tabelle weitermachen.
-- [ ] Missionen 1-4 repetieren.
+- [x] Missionen 1-4 repetieren.
