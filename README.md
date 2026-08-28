@@ -12,5 +12,5 @@ ILA 1 - 21.08.2026
 ILA 2 - 28.08.2026
 
 ## Lernziele
-- [ ] Modul 431, Aufgabe 1711 Excel Tabelle weitermachen.
+- [x] Modul 431, Aufgabe 1711 Excel Tabelle weitermachen.
 - [ ] Missionen 1-4 repetieren.
