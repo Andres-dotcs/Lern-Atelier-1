@@ -21,5 +21,5 @@ ILA 3 - 04.09.2026
 
 ## Lernziele
 - [ ] Für den Test am 11.09.2026 repetieren.
-- [ ] Einzelgespräch am 08:03.
+- [ ] Einzelgespräch am 08:30.
 - [ ] Modul 431 in ab 1712 weitermachen.
